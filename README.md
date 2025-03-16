@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NaimalArain13
-- A front-end developer
+- An emerging fullstack developer
 - I'm a student of Governor Sindh IT Initiative Course
 - Course Name ==> "Cloud Applied Genrative AI Engineering"
 - 👀 I’m interested in learning Data Viz, Full-stack technologies, Python, AI.
